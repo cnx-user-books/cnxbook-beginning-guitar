@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 1: The High E String, and Introduction to Notations</title>
+  <metadata>
+  <md:content-id>m12663</md:content-id><md:title>Guitar Lesson 1: The High E String, and Introduction to Notations</md:title>
+  <md:abstract>Introduces the notes of the high E string and the three most common types of notation for the guitar: common notation, tablature, and chord diagrams.</md:abstract>
+  <md:uuid>c6b92592-0ee3-40f4-94c9-e6c18f8a0314</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://cnx.rice.edu/content/m11905/latest/" strength="3">Guitar Tablature</link>
+      <link url="http://cnx.rice.edu/content/m11640/latest/" strength="2">A Parent's Guide to Music Lessons</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10941/latest/" strength="3">Clef</link>
+      <link url="http://cnx.org/content/m12745/latest/" strength="3">Guitars</link>
+      <link url="http://cnx.org/content/m11903/latest/" strength="3">Example Home Practice Session</link>
+      <link url="http://cnx.org/content/m11892/latest/" strength="3">Reading a Chord Diagram</link>
+      <link url="http://cnx.rice.edu/content/m11883/latest/" strength="2">A Guide to Great Home Music Practice</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+<section id="s1">
+    <title>Notes on Using This Course</title><para id="p0b"><note id="eip-id1167590390894">This is the "latest" version of this course. It includes some major changes from the original. If you prefer any of the old exercises or songs, see the "version history" at the bottom of any lesson.</note>Guitar is an unusual instrument, in that there are a number of very different, widely-accepted styles of playing. (Think of the difference in technique between, say, a classical guitarist, a rock guitarist, and a blues guitarist). There are also several common, but very different, ways of notating music for guitar, including common notation, tablature, and chord symbols. The purpose of these lessons is to acquaint the beginning guitarist with the basics needed for most guitar styles and genres. Many beginners are not certain what style of playing, and what type of notation, suits them; this general introduction not only gives them a little time to decide such things, but also gives them some basic music theory and background in other styles and other kinds of notation, so that they become more well-rounded musicians, capable of making forays into new genres and styles. 
+    </para>
+    <para id="p0d">The exercises are my own. The music on the song sheets and ensemble sheets are my arrangements of <link document="m22967">public domain</link> tunes. All exercises and arrangements are published under the Creative Commons attribution license that covers all material in Connexions. Basically any use is allowed, as long as the author and source (Catherine Schmidt-Jones, and Connexions, http://cnx.org) are properly attributed. (Keep in mind that other arrangements of these same tunes may be under stricter copyright licenses!) In order to make the requirement easy for you to fulfill, the attribution information has been added at the bottom of each lesson and practice page.
+    </para>
+     
+    
+    <list id="eip-99"><title>Author Recommendations for Students</title><item>The lessons are designed to be done with a knowledgeable teacher.
+</item>
+<item>If regular lessons are not feasible, it is strongly recommended that self-teaching students consider joining a beginning guitar class, getting a few beginning lessons, or getting occasional lessons to answer questions, correct bad habits, and get some guidance. 
+</item>
+<item>
+If even that is not feasible, the student should try to study guitar-method videos for the information that cannot be conveyed on paper. Watching performances of favorite guitarists can also be useful.</item>
+<item>Self-teaching students should also seriously consider taping practice sessions regularly, and listening to and/or watching the tape carefully. This exercise is also very useful, even for those students who have a teacher. Like all good criticism, self-criticism should be as specific as possible, and focus on what needs to be done to improve.</item></list><list id="eip-318"><title>Author Recommendations for Teachers</title><item>
+Highly-motivated students, adult beginners, and students who have already studied other instruments may be able to do these lessons at the rate of one per week. Young or musically-inexperienced students may need more time on some, or all, of the lessons. As long as students practice well and regularly, they should be encouraged to move at a comfortable pace.
+</item>
+<item>Students should not go to the next lesson until they can successfully play the music on the <term>practice page</term>. Some students will need extra practice at some point in the lessons. If this is the case, an extra lesson book, song book, or etude book, in a style of music that the student enjoys, can be studied alongside these lessons.
+</item>
+<item><term>Lesson pages</term> focus on giving information, including suggestions for understanding music theory. Some students will be more interested than others in this information. A guitarist who understands theory is a more well-rounded, capable musician, but as long as they can play the exercises adequately, students do not have to understand everything on the lesson page in order to move to the next lesson. They can refer back to it later, as things begin to make sense and questions arise. 
+</item>
+<item>
+The "find out more" links are to on-line theory lessons, which often include exercises. If theory is an important part of your program, you may wish to include theory exercises as part of the lesson assignment. Otherwise, simply point them out as extra easily-available information.
+</item>
+<item>Beginning at Lesson 3, <term>Song Sheets</term> and <term>Ensemble</term> pages are included. These can be used for extra practice, for beginners' recitals, and/or for developing an early "repertoire". The tunes are from a wide variety of traditions and genres, to help young students decide what type of music they like. Songs that are already widely available in many other guitar method books are avoided. A student can start working on a song or ensemble any time after completing the lesson indicated near the song title.
+</item>
+<item>
+When the student indicates an interest in learning specific songs or types of music, simple versions of those pieces should be included alongside the lesson music as soon as possible.
+    </item></list>
+      
+</section>
+<section id="s2">
+
+    <title>Lesson Pages</title><para id="p0c">Here are PDF files of the <link resource="1GuitarLesson.pdf">Lesson page</link> and <link resource="1GuitarPractice.pdf">Home practice page</link>. If you can't get the PDF files, you can use the figures below. The suggested theory assignment for this lesson are <link document="m10880">The Staff</link>
+and <link document="m10941">Clef</link>.
+    </para>
+
+    <figure id="fig0a"><media id="id7317242" alt=""><image src="../../media/1GuitarLesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b"><media id="id7304254" alt=""><image src="../../media/1GuitarPractice.png" mime-type="image/png"/></media>
+    </figure>
+</section>
+
+  </content>
+  
+</document>

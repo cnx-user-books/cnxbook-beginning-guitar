@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 19: Sixteenth Notes, and Chord Function in Major and Minor Keys</title>
+  <metadata>
+  <md:content-id>m13090</md:content-id><md:title>Guitar Lesson 19: Sixteenth Notes, and Chord Function in Major and Minor Keys</md:title>
+  <md:abstract>Introduces sixteenth notes, the D minor chord, a new picking pattern, and the basic differences between harmony in a major key and its relative minor.</md:abstract>
+  <md:uuid>3995e5ad-5791-4b15-870e-d58c4820f1d1</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m13089/latest/" strength="3">Guitar Lesson 18</link>
+      <link url="http://cnx.org/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m10865/latest/" strength="3">Circle of Fifths</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+ 
+   <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="19GuitarLesson.pdf">Lesson Page</link>, the <link resource="19GuitarPractice.pdf">Home Practice Page</link>, and <link resource="Ensemble15.pdf">Ensemble Page</link>  for this lesson. The  <link resource="SongSheet10.pdf">Song Sheet</link> is the same as for <link document="m13089">Guitar Lesson 18</link>.
+    </para>
+
+    <figure id="fig0a">
+      <media id="id1170933171534" alt=""><image src="../../media/19GuitarLesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id7657367" alt=""><image src="../../media/19GuitarPractice.png" mime-type="image/png"/></media>
+    </figure>
+
+
+     <figure id="fig0c"><media id="id7196534" alt=""><image src="../../media/SongSheet10.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0d"><media id="id5930053" alt=""><image src="../../media/Ensemble15.png" mime-type="image/png"/></media>
+    </figure>
+
+ 
+  </content>
+  
+</document>

@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Reading Guitar Tablature</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11905</md:content-id>
+  <md:title>Reading Guitar Tablature</md:title>
+  <md:abstract>Tablature is an alternative form of music notation that some guitar players find useful.</md:abstract>
+  <md:uuid>d6f5b3a2-2461-4c6e-9cb6-0e42c3cb8918</md:uuid>
+</metadata>
+
+  <content>
+
+    <para id="p0a">A <term>tablature</term> is a form of music notation that is designed for a particular musical instrument, for example by specifically indicating keys or fingerings. Obviously, tablatures aren't as generally useful as <link document="m10880">common notation</link>, since they can only be easily read by players of one particular kind of instrument. Also, tablatures contain different information, and may not have as much information, as standard notation. But many instrumentalists find tablature easier to read and therefore useful for learning new pieces or as a memory aid when playing the piece. Music written in guitar tablature is particularly common in pop and rock genres. (In some other genres, such as classical guitar, students are usually advised to learn common notation.) Here is a short guide to reading modern guitar tablature. Tablature for other fretted, stringed instruments follows similar rules.
+    </para><para id="p0b">On a common notation <link document="m10880">staff</link>, the lines represent particular <link document="m10943">pitches</link>. For example, on a <link document="m10941">treble clef</link> staff, the bottom line stands for <link document="m10862" target-id="p2b">the E above middle C</link>; any note on that line will be some version (<link document="m10943">sharp, flat, or natural</link>) of that E. The spaces in between the lines also represent particular pitches; for example, the space above that "E line" is where F notes appear. In other words, the placement of the note on a line or space of the staff does not tell the instrumentalist how to play that note. It only gives more general information (its pitch), because common notation is meant to be a generally-useful "common language" that can be read on any instrument. This means the guitarist can share and discuss common notation easily with a pianist or vocalist, for example. However, it also makes reading the notes a two-step process: The reader must first remember what the note represents ("middle C," for example) and then remember how that note is played on the instrument. This makes learning common notation quite challenging for beginners, particularly those who are trying to simultaneously learn to play an instrument and learn to read music.
+    </para><para id="p0c">In guitar tablature, each line represents a particular guitar string. The spaces between the lines are not used. For example, the bottom line of a guitar tablature represents the sixth, or lowest-sounding, string of the guitar. All notes on that line will be played on that string. The highest line represents the highest-sounding string.
+    </para><para id="p0d">Individual notes are represented by numbers on the lines. The number indicates where (which fret) to hold down that string (with the left hand) for that note. "0" means to pluck the open string. "2" means to hold the string down at the second fret while plucking it. In other words, in tablature, the notation indicates how to play the note, rather than indicating the pitch of the note. Although it is not useful for other instrumentalists, this more-direct approach is easier for guitarists to learn.
+    
+    </para><figure id="fig0b">
+    <title>Reading Guitar Tablature</title>
+    <media id="id1164842314932" alt=""><image src="../../media/tablature.png" mime-type="image/png"/></media>
+    <caption>
+The six lines represent the six strings of the guitar, from lowest-sounding (bottom line) to highest-sounding (top line). The numbers tell where (which fret) to hold the string down. So this line of tablature means: play the fifth string third fret, then fourth string second fret, then third string open, then second string first fret, then all four at the same time.
+    </caption>
+  </figure>
+
+    <para id="eip-750">There are some similarities between the two notations. Both are read from left to right, with notes that are played at the same time lined up in a vertical stack.</para><para id="p0f">Tablature often includes other information on how to play the note, such as whether to "bend" the string or slide the finger between notes. However, unlike common notation, it usually does not include detailed information about the <link document="m11646">rhythm</link>. Common notation developed as a way to widely distribute new music, before recording was invented. It had to include all the information needed to figure out how the music sounds. Since rhythm is such a crucial aspect of the music, this included very precise detail about the rhythm.</para><figure id="fig0a"><title>Comparing Tablature and Standard Notation</title><media id="id1164852870168" alt=""><image src="../../media/tabnotation.png" mime-type="image/png"/></media>
+         
+   <caption>Guitar music written in standard notation often has useful information such as which left-hand fingers to use (the small letters next to the notes) and which right-hand fingers to use (the small numbers). But the most important information left out of most tablature is the detailed information about the rhythm (indicated, for example, by the way the notes are connected to each other).</caption></figure><para id="eip-175">Tablature is sometimes published alongside regular notation. When common notation is not included, some rhythm information may be indicated, but in general tablature is most useful when the guitarist already knows what the music should sound like. If you learn to read tablature but not standard notation, you will need some way to find out the rhythms of the music. You can learn them from recordings, or from other musicians. You may want to learn enough standard notation to be able to read the rhythms only (in Connexions, see <link document="m10945">Duration: Note Length</link>, <link document="m11887">Duration: Rest Length</link>, and <link document="m10956">Time Signature</link> for the basics). Or you may want to learn standard notation well enough to read it slowly, for study purposes, even if you can't read it fast enough to read and play at the same time.
+    </para>
+
+  </content>
+  
+</document>

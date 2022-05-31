@@ -1,0 +1,41 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 16: Reading and Playing Plucked Chords and Accompaniments</title>
+  <metadata>
+  <md:content-id>m13041</md:content-id><md:title>Guitar Lesson 16: Reading and Playing Plucked Chords and Accompaniments</md:title>
+  <md:abstract>Introduces common notation and tablature notation for multi-note chords, plucking rather than strumming simple accompaniments, and using chord function to transpose chords.</md:abstract>
+  <md:uuid>1bee292d-2754-4eb0-9c49-c0120ef6cfbc</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m13027/latest/" strength="3">Guitar Lesson 15</link>
+      <link url="http://cnx.org/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m10890/latest/" strength="3">Naming Triads</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+   <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="16GuitarLesson.pdf">Lesson Page</link>, the <link resource="16GuitarPractice.pdf">Home Practice Page</link>,  and <link resource="Ensemble13.pdf">Ensemble page</link> page for this lesson. The <link resource="SongSheet8.pdf">Song Sheet</link> is the same as for <link document="m13027">Guitar Lesson 15</link>.
+    </para>
+
+    <para id="eip-328">At this point, most students will be ready for any intermediate-level guitar book or sheet music, whether common notation, chords, or tablature. Students who have not yet expressed interest in learning anything other than lesson music, should be strongly encouraged to listen to a variety of guitar music and choose a genre, style, or specific pieces that interest them.</para><figure id="fig0a">
+      <media id="id15480485" alt=""><image src="../../media/16GuitarLesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id6275698" alt=""><image src="../../media/16GuitarPractice.png" mime-type="image/png"/></media>
+    </figure>
+
+
+     <figure id="fig0c"><media id="id3844039" alt=""><image src="../../media/SongSheet8.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0d"><media id="id7508997" alt=""><image src="../../media/Ensemble13.png" mime-type="image/png"/></media>
+    </figure>
+  </content>
+  
+</document>

@@ -1,0 +1,169 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Guitars</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12745</md:content-id>
+  <md:title>Guitars</md:title>
+  <md:abstract>The guitar is a very versatile instrument that is popular in many different kinds of music. It comes in several varieties that have important similarities, although they can sound very different.</md:abstract>
+  <md:uuid>4cb1d34b-14a6-45e2-b3d2-7f00b2379d10</md:uuid>
+</metadata>
+
+  <content>
+    
+    <section id="s0">
+       <title>Introduction</title>
+
+       <para id="p0a">The group of instruments called guitars includes some of the world's most popular instruments. The guitar is classified as a <link document="m11896" target-id="s21">chordophone in the plucked lute family</link>. The fairly large, waisted (hourglass-shape) body that is most typical of the <link target-id="s1">acoustic guitar</link> gives it a fuller, more resonant sound than most other plucked strings. The <link target-id="s4">electric guitar</link> may have a different body shape and a more electronic <link document="m11059">timbre</link> that features an ability to be altered in interesting ways, but the technique for playing the instruments is essentially the same, and players can switch back and forth between various types of guitars with little difficulty. There are many varieties of guitar found around the world; the guitars described below are only the ones most familiar in modern <link document="m11421">Western</link> music. 
+       </para>
+  </section>
+
+  <section id="s7">
+    <title>Instrument Basics</title>
+    <para id="p0b">Most modern guitars have six strings. Modern instruments that have fewer strings are usually called by a different name, although they may still clearly be in the guitar family (ukulele, for example). The exception to this is the electric bass guitar, which, although it is called a guitar, has only four strings and functions more as a bass than as a guitar. Some guitars have a seventh string - an extra bass (low) string - but this is quite rare. There are <link target-id="p1c">twelve string guitars</link>, but the strings of these are arranged so that the playing technique is the same as that for a six-stringed instrument.</para>
+    <figure id="element-842"><title>Standar Guitar Tuning</title><media id="id8229808" alt=""><image src="../../media/GuitarStrings.png" mime-type="image/png"/></media>
+<caption>This is the standard tuning for guitar strings, <emphasis>as written for the guitarist</emphasis>. Music for guitar actually sounds one <link document="m10862">octave</link> lower than written.</caption></figure><para id="p1d">The strings of most guitars are normally tuned to E, A, d, g, b, and e'. However, parts for the instrument are written an octave higher, so that the lowest written note is the e below the treble staff, not E. (See <link document="m10862" target-id="s2">Octaves and Diatonic Music</link> for an explanation of octave identification. See <link document="m10672">Transposing Instruments</link> for more about instruments whose parts are not written where they sound.) Alternative tunings are occasionally used, particularly "D tuning", which involves tuning the lowest string to D rather than E. Hawaiian <term>slack key</term> guitar playing also features tuning some strings lower (or more "slack"), usually so that the open strings will play a <link document="m10890" target-id="s1">major chord</link>. Alternative tunings are usually used to provide easier fingerings in some <link document="m10851">keys</link> and take advantage of the more <link document="m13537">resonant</link> sound of the open string. 
+   </para>
+   <para id="p1dd">
+The four strings of the bass guitar are tuned one <link document="m10862">octave</link> below the lowest four strings of a regular guitar.
+    </para>
+    <para id="p0c">
+The guitar is played by being plucked or strummed with the right hand, either directly with the fingers, or using a <term>plectrum</term>, usually called a <term>pick</term>. This can be either a flat pick, held between the thumb and fingers, or plectrums that are curled so that they can be worn individually on the thumb and each finger. 
+    </para>
+    <para id="p0d">The left hand <term>fingers</term> the notes and <link document="m11654" target-id="l0b">chords</link> by holding the strings down against the neck. The neck is fretted; the <term>frets</term> are thin raised bars embedded in  the neck. When a string is held down, the string stops vibrating at the fret, not at the finger as it does for a non-fretted stringed instrument like the violin. Notes on the same string one fret apart are one <link document="m10866">half step</link> apart. (For more about how holding a string down affects the pitch, see <link document="m12413" target-id="s1">Standing Waves and Musical Instruments</link> and <link document="m11118">Harmonic Series</link>.) On a  <term>steel guitar</term>, the pitches are changed by sliding a steel bar up and down the strings, rather than holding them down with the fingers. Steel guitars often do not have raised frets, which would interfere with the <term>portamento</term> (gliding pitch change) that is the characteristic sound of steel guitars.
+    </para>
+    <para id="p0e">A guitar may be acoustic, electric, or some combination of acoustic and electric. In an <term>acoustic</term> guitar, the vibrations of the string are picked up and amplified in the instrument's body. In an <term>electric guitar</term>, the string vibrations are picked up and amplified by electronic components. An <term>electric-acoustic</term> is a hybrid instrument that has a hollow, resonating body, but also an electronic pickup, which amplifies the sound from both the strings and the body. 
+    </para>
+    <para id="p0f">
+If you would like some idea of the variation in sounds that different guitars get, here are audio examples of a <link resource="nylonGUITARS.mp3">(nylon-string acoustic) classical guitar</link>, a <link resource="12stringGUITARS.mp3">(steel-string acoustic) twelve-striong guitar</link>, a <link resource="electricGUITARS.mp3">(steel-string) electric-acoustic (minimal distortion)</link>, and an <link resource="bassGUITARS.mp3">electric bass guitar </link>, all playing the same short riff.
+    </para>
+
+    </section>   
+    <section id="s1">
+       <title>Acoustic Instruments</title>
+
+    <figure id="fig1b" orient="vertical">
+     <subfigure id="fig1ba">
+      <title>Classical Guitar</title>
+      <media id="id1171017997307" alt=""><image src="../../media/hGuitar20.jpg" mime-type="image/jpeg"/></media>
+    </subfigure>
+
+    <subfigure id="fig1bb">
+      <title>Twelve-String Guitar</title>
+      <media id="id1171012369540" alt=""><image src="../../media/twelvestring20.jpg" mime-type="image/jpeg"/></media>
+     </subfigure>
+    </figure>
+
+       <para id="p1a">
+There are several different types of acoustic guitar. The modern <term>classical</term> guitar or <term>Spanish</term> guitar uses nylon strings (the lower three strings are wrapped in metal wire) and has a fairly wide neck. It has a large, waisted (hourglass-shape) body with a flat back. This is the modern instrument used to play "classical" guitar music from any era, as well as Flamenco and many other folk styles. 
+    </para>
+    <para id="p1aa">The <term>steel-string</term> acoustic guitar has the same basic shape as the classical guitar. The metal strings give it a brighter, less mellow <link document="m11059">timbre</link> than the classical guitar. It may have a narrow or wide neck, and the back of the body may be flat or rounded. This instrument is used for some types of popular music, for example American "country", and also for some types of folk music, including some blues.
+       </para>
+    <para id="p1c">Some acoustic steel-string guitars are twelve string guitars. <term>Twelve string guitars</term> have six <term>courses</term>, or groups of strings (two strings in each course, in this case) that are strung very close together and played (held down and plucked or strummed) together, as if they are one string. The highest (pitched) two courses are simply two e' and two b strings. The other courses consist of one string tuned as it is in a regular guitar plus one string tuned an <link document="m10862">octave</link> higher. The total effect is a bright, full sound that is particularly useful for acoustic accompaniments.
+    </para>
+    <para id="p1b">The steel-string guitar should not be confused with the <link target-id="p0d">steel guitar</link>, which is often more box-shaped than hourglass-shaped. Also called <term>Hawaiian guitar</term> (it was developed in Hawaii), the steel guitar is rested flat on the lap or on a stand, and may include floor pedals and knee levers for changing the string tunings while the instrument is being played. <term>Resonator</term> guitars, which do have the typical guitar shape, have a metal resonator rather than a sound hole in the body, and are typically played with a sliding steel bar, like the steel guitar. Besides being common in Hawaiian music, the steel guitar is also found in some blues and American "country" music. Many modern steel guitars are electric instruments.
+      </para>
+
+    </section>
+    <section id="s4">
+      <title>Electric Guitars</title>
+
+     <figure id="fig4a">
+       <title>Electric Bass Guitar</title>
+       <media id="id1170991742033" alt=""><image src="../../media/bass20.jpg" mime-type="image/jpeg"/></media>
+     </figure>
+
+
+      <para id="p4a">In the true <term>electric</term> guitar, the body is not hollow and does not act as a resonator. The vibrations of the strings are picked up and amplified electronically. This is the guitar most commonly found in all kinds of rock and pop bands, and it is also common in jazz. 
+     </para>
+     <para id="p4b">There are also various hybrid <term>electric-acoustic</term> guitars. Some are essentially steel-string acoustic guitars that have a built-in electronic pick-up. Others are "hollow-body electric" guitars that have the neck and strings of an electric guitar, but with a body that, while not as deep as an acoustic guitar, is hollow and does provide some acoustic <link document="m13537">resonance</link>. In hybrid instruments, the sound from both the strings and the body is amplified electronically, giving an amplified sound that still has some acoustic <link document="m11059">timbre</link>. Hybrid instruments can be found playing folk, country, blues, jazz, pop, and rock music.
+     </para> 
+    <para id="p4c">The <term>electric bass guitar</term> has only four strings, which are tuned an <link document="m10862">octave</link> below the four lowest strings on a six-string guitar. The bass guitar is a standard part of rock and pop bands, and is also often used instead of the more traditional <link document="m14624">double bass</link> in jazz and many other genres. Unlike other guitars, which play <link document="m11654" target-id="l0b">chordal</link> <link document="m11654" target-id="l0c">accompaniments</link> or melodies, the bass guitar generally plays the <link document="m11654" target-id="l0c">bass line</link>. For this reason, switching to bass guitar, or <link document="m14266" target-id="element-435">doubling</link> as  a bass guitarist may be easier for a double bass player than for a guitar player.
+    </para>
+
+    </section>
+    <section id="s9">
+      <title>Chordal Accompaniments on the Guitar</title>
+      <para id="p9a">The guitar is often used as a <link document="m11647">melody</link> instrument. The <term>lead</term> guitar in a rock band, for example, specializes in playing solo melodies. Classical guitar music usually includes a melody and enough accompaniment to suggest either a <link document="m11634" target-id="">countermelody</link> or a <link document="m11654" target-id="l0b">chordal</link> accompaniment.
+      </para>
+      <para id="p9b">Many guitarists, however, specialize in playing chordal accompaniments; the <term>rhythm</term> guitarist in a rock band, or the typical folk guitarist are examples. Chordal accompaniments may be strummed <term>block</term> chords, with all the notes of the chord played together, or they may be <link target-id="">picked</link> arpeggios, with the notes of the chord played one or two at a time. In either case, the guitarist may choose either to use as many open strings as possible in each chord, or may instead use mostly <term>barre chords</term>, which have no open strings. Chords with plenty of open strings have a more resonant sound, are easier to play with the left hand, and are often favored by acoustic guitar players. Barre chords give more control over exactly when the chord stops sounding, are easier to <link document="m10668">transpose</link> to other keys, and are often favored by electric guitar players. (Holding down all six strings on an acoustic guitar requires much more hand strength than does holding down all the strings of an electric guitar.)</para>
+      <para id="p9c">The <term>capo</term> is a device that stretches across all of the strings, holding them down firmly. The shortening of all the strings changes the "open-string" tuning of the instrument and <link document="m10668">transposes</link> the chords played to a new <link document="m10851">key</link>. The capo is sometimes used simply to <link document="m10668">transpose</link> a piece to a different key (in order to be able to sing it more easily, for example). At other times, the capo is used to make it possible to play easy, open-string-style chords in a <link document="m10851">key</link> that generally doesn't use open strings. For example, a capo at the first <link target-id="p0d">fret</link> causes the strings to sound one <link document="m10866">half step</link> higher. A player who plays open-string-style chords with the capo (for example C - G - E minor), will be playing them in a new key (D flat - A flat - F minor).
+      </para>
+    </section>
+    <section id="s2">
+      <title>History</title>
+
+      <para id="p2a">
+Guitar-like instruments are an ancient group. Because the guitar gradually developed from other, similar instruments in the lute family, it is difficult to pinpoint the exact beginnings of the instrument.  It may have developed from an instrument used in Asia since ancient times; or it may have developed from an instrument in use in medieval Europe. Guitars were definitely being played in Spain and France by the middle of the 1500's. The modern guitar is based on the designs of Spaniard Antonio de Torres, and the guitar has historically been closely associated with Spain. Early instruments were smaller and quieter than the modern acoustic guitar. 
+      </para>
+      <para id="p2b">
+In order to get a louder, richer tone, these early instruments almost always had doubled strings. The earliest guitars had four pairs of strings (four <term>courses</term>), and later - by the early 1600's - guitars had five pairs. By the late 1700's, guitars with six pairs of strings or six single strings were being made.
+      </para>
+
+    </section>
+
+    <section id="s5">
+      <title>Suggestions for Beginners and Parents of Beginners</title>
+      <para id="p5a">
+You must be near adult size to play a full-size guitar comfortably. Children under ten who want to play guitar will probably need a half-size or three-quarter-size guitar. Most "guitars" this size are toys, not musical instruments, so get the help of a guitar teacher or other knowledgeable musician in choosing an instrument.
+      </para>
+      <para id="p5b">There are many different types of guitar and styles of guitar playing. A student who wants to learn classical guitar will need a different instrument and probably a different teacher than a student who wants to learn jazz improvisation. If you're not sure what you want, talk to a guitar teacher about it and listen to recordings of guitars playing in different styles.
+      </para>
+      <para id="p5c">
+On the other hand, it's very useful to learn the basics of all the styles. It's a good idea to know how to read common notation (including classical guitar fingerings) and tablature notation as well as chord charts, no matter what style of guitar you normally play. If you can play a solo line and classical and jazz scales as well as chord strumming and picking, this will make you a much more versatile instrumentalist.
+      </para>
+    </section>
+
+    <section id="s6">
+      <title>Repertoire</title>
+     <para id="p6a">
+There is a huge and varied repertoire of music out there for guitar. Almost any radio station, whether it's playing pop, rock, jazz, country, even folk or classical, will feature plenty of guitar music. Recordings featuring guitar are also very easy to find.
+     </para>
+    </section>
+
+    <section id="s3">
+      <title>Practical Information for Composers and Arrangers</title>
+
+    <figure id="fig3c"><title>Written Range of the Guitar</title>
+      <media id="id1171019588479" alt=""><image src="../../media/guitarrange.png" mime-type="image/png"/></media>
+      <caption>
+The guitar sounds one octave lower than written. Write for guitar in treble clef or guitar <link document="m11905">tablature</link>.
+      </caption>
+    </figure>
+
+    <figure id="fig3d"><title>Written Range of Bass Guitar</title>
+      <media id="id1170992993511" alt=""><image src="../../media/bassguitarrange.png" mime-type="image/png"/></media>
+      <caption>
+Bass guitar players usually read bass clef. Bass guitar also sounds one octave lower than written.
+      </caption>
+    </figure>
+
+      <para id="p3f">The guitar sounds an octave lower than written. This need not concern you as an arranger, unless the specific octave of the note is very important to you. Guitar players prefer to read treble clef or guitar tablature (some may only read one or the other). Bass guitar players read bass clef. Some guitar players cannot usefully read either tablature or common notation, but will easily improvise an accompaniment using only the chord names written above the staff.
+      </para>
+      <para id="p3aa">Guitar is a very versatile instrument. An accomplished guitarist can play strummed (block chord) or picked (arpeggiated chord) accompaniment, solo melody, improvised solos,  melody and accompaniment at the same time, or even several lines of <link document="m11634">counterpoint</link> at the same time. As composer or arranger, you may specify exactly how you want something played (even which fingers of both hands are used), or you may write a fairly sketchy part (melodic line and chords, or just chords) and expect that the guitarist to fill it out for you.
+      </para>
+
+      <para id="p3a">If all you want from the guitarist is a chordal accompaniment of the type that guitars often provide, it is enough to provide the guitarist with just chord names (along with some indication of when to change chords, such as the lyrics, or a staff with measures indicated). You do not have to write out the accompaniment unless you want a particular rhythm, strum, or picking pattern. If the chord rhythm or picking pattern you want is very repetitive, you may wish to write out just the rhythm or pattern and indicate how you want it repeated. 
+      </para>
+      <para id="p3b">
+If you want specific notes or a melody from the guitar, of course you will have to write it out. Some guitarists are not comfortable reading common notation; they may prefer that you write the music in <link document="m11905">tablature</link>. Don't write out very complex parts for the guitar unless you are very familiar with the instrument. Very fast, complex music can be played on the instrument, but only if it is written by someone who knows whether a particular combination of notes and fingerings are easy, difficult, or impossible. If you do write out complex parts that are only easy or possible using a certain fingering, be sure to notate it properly (with fingerings, left hand position, etc.).
+      </para>
+      <para id="p3ab">Also, some guitar chords are easier to play, and sound better than others. (See <link target-id="p9b">above</link>.) Keys that favor open strings (i.e. any <link document="m10851">key</link> in which the <link document="m11643">most common chords</link> tend to contain the notes E, A, G, D, and/or B) are preferred by many guitarists. Favorite keys include: G, D, C, A, and E major, and E, A, and D minor. Keys with more than one flat can be daunting and may sound noticeably less resonant. If you are writing in a key that is awkward for guitar, you may want to consider giving the guitar player the option of using a <link target-id="p9c">capo</link> and playing in an easier key. This will require offering a <link document="m10668">transposed</link> version of the chords, but will make your music much more approachable for younger and/or less-experienced players. On the other hand, many players of electric guitar prefer the control over the resonance that barre chords (with no open strings) give them. If this will be the case for your music, key matters much less. If you do offer a capo version of the chord names, remember that a capo can only raise, not lower the sound of the guitar. Since the sound of the instrument has been raised, the guitarist can play chords from a lower (easier) key. (For example, if you want a piece to sound in A flat major, you can have the guitarist capo first fret, raising the sound by a half step, and play the chords - in G major - that would normally sound a half-step lower. For more information and practice transposing, please see <link document="m10668">Transposition</link>.) Capoing above about the fourth fret tends to give a tinny, out-of-tune sound, so try to find a key only a step or two lower that will give easy-to-play chords.
+      </para>
+
+      <figure id="fig3a">
+        <media id="id1171026747224" alt=""><image src="../../media/transchord.png" mime-type="image/png"/></media>
+        <caption>
+If guitar chords are an important part of the music, you may want to put the music in a key that is good for guitars (please see <link document="m10668">Transposition</link>). If it is important to use a flat key (for the singing range, for example), give the guitarist the option of using a capo. 
+        </caption>
+      </figure>
+
+      <para id="p3d">The guitar is such a versatile instrument that there are many different styles and methods of playing it. Classical guitar, folk guitar, rock guitar, flamenco guitar, and blues guitar are just some of the classifications of guitar music that require very different methods, styles, skills, and even instruments. Most guitarists specialize in just one or two of these areas. If you are writing for a particular player, or want a particular sound, your arrangement will be more successful if you are aware of what is reasonable to ask of that player, instrument, and style. 
+      </para>
+
+      <para id="p3c">Bass guitar is not normally a strummed instrument. It is usually given the bass line, and in some groups is considered interchangeable with the double bass. It can be a solo instrument, but write a very light, soft accompaniment when you write bass solos, so that they can be heard.
+      </para>
+
+
+    </section>
+    </content>
+  
+</document>

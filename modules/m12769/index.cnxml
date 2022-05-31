@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 9: Key Signatures and Major Scales</title>
+  <metadata>
+  <md:content-id>m12769</md:content-id><md:title>Guitar Lesson 9: Key Signatures and Major Scales</md:title>
+  <md:abstract>Introduces key signatures, major scales as a pattern of whole and half steps, bass note-strum accompaniments, and the G7 chord.</md:abstract>
+  <md:uuid>ad743925-085b-46b2-8d5c-c48f9a8598d6</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="3">Key Signature</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+      <link url="http://cnx.rice.edu/content/m12753/latest/" strength="3">Guitar Lesson 8</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="9Guitarlesson.pdf">Lesson Page</link>, the <link resource="9Guitarpractice.pdf">Home Practice Page</link>, and the <link resource="Ensemble6.pdf">Ensemble Page</link> for this lesson. The <link resource="SongSheet4.pdf">Song Sheet</link> is the same as for <link document="m12753">Guitar Lesson 8</link>.</para>
+
+    <figure id="fig0a">
+      <media id="id1166990796085" alt=""><image src="../../media/9Guitarlesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id1166985538462" alt=""><image src="../../media/9Guitarpractice.png" mime-type="image/png"/></media>
+    </figure>
+
+ <figure id="fig0d">
+      <media id="ensemble" alt=""><image src="../../media/Ensemble6.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0c">
+      <media id="id1166992149905" alt=""><image src="../../media/SongSheet4.png" mime-type="image/png"/></media>
+    </figure>
+   
+  </content>
+  
+</document>

@@ -1,0 +1,54 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 4: The D String, Rests, and Right Hand Symbols</title>
+  <metadata>
+  <md:content-id>m12669</md:content-id><md:title>Guitar Lesson 4: The D String, Rests, and Right Hand Symbols</md:title>
+  <md:abstract>Introduces the D string, rests, and right hand notation.</md:abstract>
+  <md:uuid>f6120b92-e391-4ffb-a941-091ce71c21e2</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m12668/latest/" strength="3">Guitar Lesson 3</link>
+      <link url="http://cnx.rice.edu/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11887/latest/" strength="3">Rest Duration</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+ 
+    <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link url="4Guitarlesson.pdf">Lesson Page</link> and the <link url="4Guitarpractice.pdf">Home Practice Page</link>. Students may also be ready to begin the <link url="songsheet2.pdf">Second Song Sheet</link> and <link url="Ensemble2.pdf">Second Ensemble page</link>. If you cannot get the PDF files, you can use the figures below. 
+    </para>
+    <para id="p0b">Also note that students who are interested in singing may be ready to work on "two-chord" songs that include only simple A or E (major or minor) chords, such as those on the <link url="ChordSongSheet.pdf">First Chord Song Sheet</link> from lesson 2, and this second <link url="ChordSongSheet2.pdf">First Chord Songs</link> sheet.
+    </para>
+
+    <figure id="fig0a">
+      <media id="id4567206" alt=""><image src="../../media/4Guitarlesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id1171171362901" alt=""><image src="../../media/4Guitarpractice.png" mime-type="image/png"/></media>
+    </figure>
+
+<figure id="fig0c">
+      <media id="songsheet" alt=""><image src="../../media/songsheet2.png" mime-type="image/png"/></media>
+    </figure>
+
+<figure id="fig0d">
+      <media id="ensembles" alt=""><image src="../../media/Ensemble2.png" mime-type="image/png"/></media>
+    </figure>
+
+<figure id="fig0e">
+      <media id="chordsong1" alt=""><image src="../../media/ChordSongSheet.png" mime-type="image/png"/></media>
+    </figure>
+
+<figure id="fig0f">
+      <media id="chordsongsheet2" alt=""><image src="../../media/ChordSongSheet2.png" mime-type="image/png"/></media>
+    </figure>
+    
+  </content>
+  
+</document>

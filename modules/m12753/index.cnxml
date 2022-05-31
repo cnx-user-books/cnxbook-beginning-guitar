@@ -1,0 +1,46 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 8: Tuning the Guitar, and Dotted Rhythms</title>
+  <metadata>
+  <md:content-id>m12753</md:content-id><md:title>Guitar Lesson 8: Tuning the Guitar, and Dotted Rhythms</md:title>
+  <md:abstract>Introduces a common tuning method, the C major scale, half and whole steps, dotted rhythms, and the G major chord.</md:abstract>
+  <md:uuid>c284df70-4353-4e27-a504-a3a63292438e</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10866/latest/" strength="3">Half Steps and Whole Steps</link>
+      <link url="http://cnx.org/content/m11949/latest/" strength="3">Tuning Your Guitar</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+      <link url="http://cnx.rice.edu/content/m12752/latest/" strength="3">Guitar Lesson 7</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="8Guitarlesson.pdf">Lesson Page</link>, the <link resource="8Guitarpractice.pdf">Home Practice Page</link>, <link resource="SongSheet4.pdf">Song Sheet 4</link>, and <link resource="Ensemble5.pdf">Ensemble Page 5</link>.
+    </para>
+
+    <para id="eip-730">Young students may not be ready to tune their own guitars yet. This should not be considered a problem, although it is a good idea for them to understand why the guitar can be tuned using this method, and to begin to listen carefully to distinguish sounds as being "in tune", "too high", or "too low". With very young students, this kind of practice can be turned into a game. Older students may be i8nterested in reading about other <link document="m11949">methods for tuning the guitar</link>
+</para><para id="eip-567">If students who are interested in singing are having trouble singing a favorite 3-chord song in the key of A, the teacher can help them transpose the chords to the key of D (using chords D, G, and A7 as I, IV, and V7). They can practice singing and playing in both keys before deciding which works best for them.</para><figure id="fig0a">
+      <media id="id7290534" alt=""><image src="../../media/8Guitarlesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id6739274" alt=""><image src="../../media/8Guitarpractice.png" mime-type="image/png"/></media>
+    </figure>
+
+
+     <figure id="fig0c">
+      <media id="id6895240" alt=""><image src="../../media/SongSheet4.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0d">
+      <media id="id6836149" alt=""><image src="../../media/Ensemble5.png" mime-type="image/png"/></media>
+    </figure>
+  </content>
+  
+</document>

@@ -1,0 +1,211 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tuning Your Guitar</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>622e0a9a-2fce-4162-8727-219d9aa7dec3</md:uuid>
+</metadata>
+
+  <content>
+
+    <section id="s0">
+     <title>Introduction</title>
+
+     <para id="p0a">
+There are several different popular methods for tuning a guitar. All are adequate, but you will probably find that some are either more convenient for you or easier for you to hear well. Also, the results of each method are slightly different. For the beginning guitarist who is just practicing alone, it is most important to choose a tuning method that is easy and convenient. But as you start to play with other people or become more picky about how your guitar sounds, the results of the different tuning methods will be more important to you.
+     </para>
+
+    </section>
+    <section id="s1">
+     <title>Pitch Pipes</title>
+
+     <para id="p1a">There are pitch pipes available (check your local guitar supplier) that give the pitches for all six strings; you simply match the pitch of each string to the appropriate pipe.
+     </para>
+     <para id="p1b">Pitch pipes are inexpensive (say, compared to an electronic tuner) and easy to use even for young beginners. They are small and easy to bring along.
+     </para>
+     <para id="p1c">Pitch pipes do not have as clear and precise a pitch as a tuning fork, piano, or electronic tuner, and their pitches are <link document="m11639" target-id="s2">equal temperament</link>. (See the discussion in the keyboard section, <link target-id="p2c">below</link>, for more about guitars and equal temperament.) Advanced players often find the result dissatisfying.
+     </para>
+
+    </section>
+ <section id="s3">
+     <title>Electronic Tuner</title>
+
+     <para id="p3a">
+Also available are electronic tuners that can also give you each of the individual pitches you need for all six strings. Electronic tuners also have a setting that allows to you check a sound to see whether it is flat, sharp, or on pitch.
+     </para>
+     <para id="p3b">Electronic tuners have a more precise pitch than a pitch pipe and some people find the feature that lets them check their pitch useful. Some are large, but plenty are small and easy to bring along.
+     </para>
+     <para id="p3c">
+Electronic tuners are quite expensive, however, and require batteries or an electrical outlet. Also, they are set to give equal temperament tuning (see the discussion <link target-id="p2c">below</link>) and some people have trouble tuning to a thin, electronic tone. It is generally not worth the expense to get an electronic tuner just to tune a guitar.
+     </para>
+
+    </section>
+    <section id="s2">
+     <title>Keyboard</title>
+
+     <para id="p2a">
+If an electronic keyboard or a well-tuned piano is available, this can also be an easy way to tune the guitar. <emphasis>Be aware that guitar music actually sounds one octave lower than written, so the highest guitar string, for example, is only the E above middle C, not the E an octave and a third above middle C, as it is written.</emphasis>
+     </para>
+
+     <figure id="fig2a">
+       <title>Tuning to a Keyboard</title>
+       <media id="idp9169136" alt=""><image src="../../media/tunekeyboard.png" mime-type="image/png"/></media>
+       <caption>
+The open strings of the guitar (the six red notes) span two octaves from the E above middle C to the E two octaves below that.
+        </caption>
+     </figure>
+
+     <para id="p2b">
+Pianos and keyboards give a precise, clear, loud pitch that is easy to tune to. This can be a good choice for beginners who have a keyboard available, or for guitarists who are going to be practicing or performing with a keyboard player.
+     </para>
+     <para id="p2c">Obviously, this method is not useful when a keyboard is not available. But there is also the issue of exactly how you want your guitar to be tuned. Keyboards use <term>equal temperament</term>, which is basically the official tuning system of modern <link document="m11421">Western</link> music. This tuning system became so popluar and widely used, in fact, precisely because it is so good for keyboard instruments; it is designed so that an instrument that uses it will play equally in tune no matter what key it plays in. This is very important for instruments like pianos and harps which cannot retune easily or quickly.
+     </para>
+     <para id="p2d">
+There is a trade-off, though. In order for equal temperament to work, the only interval that is true to natural <link document="m11118">harmonics</link> is the octave. All other intervals are a little off from the <link document="m11639" target-id="s11">pure intervals</link> found in the <link document="m11118">harmonic series</link> (in other words, in nature, in the physics of sounds). For example, a <link document="m10867" target-id="p21a">perfect fifth</link> in equal temperament is just a little smaller than a pure perfect fifth.
+     </para>
+     <para id="p2e">Because the piano is such a popular instrument, most listeners are comfortable with equal temperament. And yet, there is the fact that the intervals are not exactly "in tune". Musicians who can make small tuning adjustments very quickly (vocalists, woodwind and brass players, and even players of unfretted strings, like the violin), often find themselves abandoning equal temperament when they can, and adopting the pure thirds and fifths of <link document="m11639" target-id="p12a">just intonation</link>.
+     </para>
+     <para id="p2f">You cannot tune a guitar instantly, as you can a voice, or even a (non-open-string) note on the violin. But you can tune a guitar relatively quickly; say in between songs. And guitar players rarely need or want to play equally in tune in all keys. Many styles of guitar music favors easy-to-play keys, like E minor or D major, and avoids keys that require lots of barre chords, like A flat major or C sharp minor. So most guitarists do not use equal temperament tuning.
+     </para>
+
+    </section>
+    <section id="s4">
+     <title>Tuning fork</title>
+
+     <para id="p4a">
+Tuning forks that sound the popular tuning note "A" (which can be used to tune the fifth string) are very easy to find; tuning forks that sound an "E" (which can be used to tune the  first and sixth strings) are also pretty easy to find and are more useful for guitars.
+     </para>
+     <para id="p4b">A tuning fork is inexpensive and can easily be brought along. Another advantage is that if you touch it to the sounding board of an acoustic guitar, you will get a sound similar in <link document="m11059">color</link> to the sound of that guitar being played. This can make using a tuning fork easier and more accurate than tuning to a sound that is a very different color (like a pitch pipe or electronic tuner). Some guitarists prefer to use a tuning fork.
+     </para>
+
+    <list id="l4a" list-type="enumerated">
+       <title>Using a tuning fork</title>
+       <item>
+Hold the fork by the stem only, leaving the tines free to vibrate.
+       </item>
+       <item>
+Rap the tines once against something that is hard enough to start them vibrating. (But try not to rap them on something that they will dent or mark; your knee is a good choice.)
+       </item>
+       <item>
+Immediately (but without touching the tines) set the stem lightly on the body of the guitar. Tune the string to the sound the guitar makes.
+       </item>
+     </list>
+
+     <para id="p4c">
+Using a tuning fork well requires a little practice and is slightly cumbersome. It may be difficult for young players, and even experienced players won't want to bring along five or six different tuning forks. This brings us to the preferred methods for tuning guitars.
+     </para>
+ 
+    </section>
+    <section id="p5">
+     <title>Intervals</title>
+
+     <para id="p5a">As discussed <link target-id="p2c">above</link>, guitar players, like vocalists and wind players, don't have to use equal temperament. Many prefer instead to tune the guitar so that it sounds good in keys that are easy to play. One popular way to do this is to tune each string to the one below it, giving pure fourths between most open strings, and a (close to pure) major third between the second and third strings. (You don't need to know about fourths and thirds to tune your guitar, but if you want to know, please see <link document="m10867">Interval</link>.)
+     </para>
+     <para id="p5b">
+The advantage of this method is that the pure intervals give the guitar a very pleasing, resonant, in-tune sound on chords that have plenty of open strings, like E minor and G major. Tuning strings to other strings is also pretty easy once you've practiced a little.
+     </para>
+     <para id="p5c">
+The disadvantage is that, since you are not using equal temperament, some chords are going to sound more in tune than others. Experienced guitarists simply tweak the tuning by ear as they change <link document="m10851">keys</link> (for example, one might adjust the third string to give a better E major chord when playing in A major or E major). You may also find that your guitar sounds slightly out of tune when playing with a piano.
+     </para>
+
+     <figure id="fig5a">
+      <title>Tuning by Interval</title>
+      <media id="idp7796688" alt=""><image src="../../media/intervaltune.png" mime-type="image/png"/></media>
+      <caption>
+Each string is tuned to the string below it. The lower string is held at the correct fret, and the (open) higher string is tuned to it.
+      </caption>
+     </figure>
+
+     <list id="l5a" list-type="enumerated"><title>Tuning by Interval</title>
+        <item>
+Tune the 6th string (the low E string), using a tuning fork, keyboard, piano, pitchpipe, or whatever is handy.
+        </item>
+        <item>
+To find an A, hold the 6th string down at the 5th fret. Tune the open A string (the 5th string) to this A.
+        </item>
+        <item>
+Tune the open D string (the 4th string) to the D at the 5th fret of the 5th string.
+        </item>
+        <item>
+Tune the open G string (the 3rd string) to the G at the 5th fret of the 4th string.
+        </item>
+        <item>
+Tune the open B string (the 2nd string) to the B at the <emphasis>4th fret</emphasis> of the 3rd string. This is the only one that is not 5th fret.
+        </item>
+        <item>
+Tune the open E string (the 1st string) to the E at the 5th fret of the 2nd string.
+        </item>
+        <item>
+Check your tuning by playing a chord of only E's and B's, listening carefully to see if all the octaves are in tune. Make small adjustments, if needed.
+        </item>
+     </list>
+     <figure id="fig5b">
+        <title>Chord to Check Tuning</title>
+        <media id="idp7897568" alt=""><image src="../../media/checktuning.png" mime-type="image/png"/></media>
+        <caption>
+Check your tuning by playing a chord of E's and B's. Listen carefully to see that all the octaves are in tune with each other, and that the fourth/fifth intervals between the E's and B's also sound good. Retune if necessary.
+        </caption>
+     </figure>
+     <para id="p5d">
+Many experienced guitarists become so comfortable with hearing the pure fourths and third that they can tune simply by listening to the interval between the strings, rather than using the fifth-fret/open string <link document="m10867" target-id="p21a">unisons</link>.
+     </para>
+
+    </section>
+    <section id="s6">
+     <title>Harmonics</title>
+
+     <para id="p6a">
+Some advanced guitarists prefer to tune using string <link document="m11118" target-id="p4a">harmonics</link>, which cut out some of the string <link document="m11118" target-id="p1c">overtones</link>, leaving a clear, easy-to-hear <link document="m10943">pitch</link>. This is a little tricky to learn, but it gives a very accurate, resonant, pure-interval-based tuning.
+     </para>
+     <para id="p6b">
+Because it is very easy to hear the pitch of the high, clear string harmonics, this tuning method gives a very accurate, pleasing tuning that takes advantage of pure intervals (fourths) to give the instrument a more resonant, vibrant sound (because pure intervals support and resonate with each other better). 
+<note id="idp13057152">For those interested in tuning theory: As far as I can tell, this tuning, based on a series of pure fourths, is not an official tuning system like <link document="m11639" target-id="p11a">Pythagorean tuning</link>, which is based on a series of pure fifths. Like the Pythagorean system, though, if all the intervals were in fact pure, the result would not add up to pure octaves between the two E strings. I believe that most of the (slight) "fudging" necessary takes place around the B string, which is tuned with the third rather than the fourth. 
+</note>
+     </para>
+     <para id="p6c">
+Harmonics are played by touching the string very lightly at the fret, rather than holding it down just below the fret. You must be comfortable with playing harmonics to use this tuning method; it is not recommended for beginners.
+     </para>
+     <figure id="fig6a">
+       <title>Tuning Using Harmonics</title>
+       <media id="idp6646736" alt=""><image src="../../media/harmonictuning.png" mime-type="image/png"/></media>
+     </figure>
+     <list id="l6a" list-type="enumerated">
+       <title>Tuning Using Harmonics</title>
+       <item>
+Tune the low E string using a tuning fork, keyboard, etc.
+       </item>
+       <item>
+Tune the A string by matching the harmonic at the fifth fret of the 6th string to the harmonic at the 7th fret of the 5th string.
+       </item>
+       <item>
+Tune the D string to the A string and the G string to the D string using the same procedure (matching the 7th fret harmonic of the higher string to the 5th fret harmonic of the lower string).
+       </item>
+       <item>
+Tune the B string by matching the <emphasis>open B string</emphasis> to the harmonic at the 7th fret of the 6th string. Some guitarists match the harmonic at the 5th fret of the B string to the one at the 9th fret of the G string, but this is more difficult and also gives a less satisfactory tuning.
+       </item>
+       <item>
+Tune the top E string to the B string using the 5th fret/7th fret harmonics.
+       </item>
+       <item>
+Check the tuning using an E's and B's only chord (see <link target-id="fig5b">above</link>, and adjust as necessary.
+       </item>
+     </list>
+
+    </section>
+
+    <section id="s7">
+      <title>Other Popular Guitar Tunings</title>
+    
+      <para id="p7b">
+All of the above discussion assumes that you want a standard guitar tuning, but there are many other possible ways to tune a guitar. For example, <term>Slack key</term> tuning, popularized by Hawaiian guitarists, involves tuning some of the strings lower (or "slack", because they are looser when lower) than standard tuning. The resulting tuning often (but not always) gives a <link document="m10890">major chord</link> when all of the open strings are played. For example, one popular slack key tuning involves lowering both E strings to D and lowering the A string to G. The result (DGDGBD) is a G major chord. Slack key tunings will usually sound best using <link document="m11639" target-id="s11">pure</link> fifths and thirds, rather than <link document="m11639" target-id="s22">equal temperament</link>. The major chord will be easy for most experienced guitarists to hear accurately, so many players will be able to do this tuning by ear.
+      </para>
+<para id="p7a">
+Another popular tuning, found in styles as different as classical and rock guitar, is <term>D tuning</term>. This involves tuning the lowest string to D instead of E, which gives an unusually resonant sound when playing in the key of D. Tune the guitar as usual, then retune the lowest string using the open 4th string D. (Tune the 6th string to an octave below the 4th string.) Check your tuning using  a chord of D's and A's.
+      </para>
+      <figure id="fig7a">
+       <title>Chord to Check D Tuning</title>
+       <media id="idp12984464" alt=""><image src="../../media/Dtuning.png" mime-type="image/png"/></media>
+      </figure>
+     
+    </section>
+
+  </content>
+  
+</document>

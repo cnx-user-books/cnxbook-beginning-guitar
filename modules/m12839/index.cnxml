@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 12: Strumming and Reading Common Notation for Compound Meters</title>
+  <metadata>
+  <md:content-id>m12839</md:content-id><md:title>Guitar Lesson 12: Strumming and Reading Common Notation for Compound Meters</md:title>
+  <md:abstract>Introduces compound meter in common notation, strumming for compound meters, and B7 and C7 chords.</md:abstract>
+  <md:uuid>771ea506-c865-4f3c-9a7c-624c0b3ed5a0</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="3">Interval</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+      <link url="http://cnx.rice.edu/content/m12804/latest/" strength="3">Guitar Lesson 11</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="12GuitarLesson.pdf">Lesson Page</link>, the <link resource="12GuitarPractice.pdf">Home Practice Page</link>, and <link resource="SongSheet6.pdf">Song Sheet 6</link>, which you may already have from <link document="m12804">Guitar Lesson 11</link>. There are quite a few ensembles that the student may work on following this lesson. You may already have <link resource="Ensemble7.pdf">Ensemble Page 7</link> from lesson 11.<link resource="Ensemble8.pdf">Ensemble Page 8</link> and <link resource="Ensemble9.pdf">Ensemble Page 9</link> also go with this lesson.</para>
+
+    <figure id="fig0a">
+      <media id="id8570723" alt=""><image src="../../media/12GuitarLesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id6879053" alt=""><image src="../../media/12GuitarPractice.png" mime-type="image/png"/></media>
+    </figure>
+ 
+    <figure id="fig0c"><media id="id1168131314901" alt=""><image src="../../media/SongSheet6.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0d">
+      <media id="ens7" alt=""><image src="../../media/Ensemble7.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0e">
+      <media id="ens8" alt=""><image src="../../media/Ensemble8.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0f">
+      <media id="ens9" alt=""><image src="../../media/Ensemble9.png" mime-type="image/png"/></media>
+    </figure>
+
+ 
+  </content>
+  
+</document>

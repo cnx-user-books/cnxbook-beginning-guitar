@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 20: Dynamics, Rhythm Notation in Tablature, and Harmonic Minor</title>
+  <metadata>
+  <md:content-id>m13091</md:content-id><md:title>Guitar Lesson 20: Dynamics, Rhythm Notation in Tablature, and Harmonic Minor</md:title>
+  <md:abstract>Introduces dynamic markings, playing at different dynamic levels, harmonic minor scales, and common methods for notating rhythms in guitar tablature.</md:abstract>
+  <md:uuid>47e1228c-1979-448d-a64c-efd84551645a</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m13090/latest/" strength="3">Guitar Lesson 19</link>
+      <link url="http://cnx.org/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m10668/latest/" strength="3">Transposition</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+   
+   <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="20GuitarLesson.pdf">Lesson Page</link>, the <link resource="20GuitarPractice.pdf">Home Practice Page</link>, and the <link resource="Ensemble16.pdf">Ensemble Page</link> for this lesson. The <link resource="SongSheet10.pdf">Song Sheet</link> is the same as for lessons 18 and 19.
+    </para>
+
+    <figure id="fig0a">
+      <media id="id1167853926499" alt=""><image src="../../media/20GuitarLesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id1167854547544" alt=""><image src="../../media/20GuitarPractice.png" mime-type="image/png"/></media>
+    </figure>
+
+
+     <figure id="fig0c"><media id="id1167854835183" alt=""><image src="../../media/SongSheet10.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0d"><media id="id7640984" alt=""><image src="../../media/Ensemble16.png" mime-type="image/png"/></media>
+    </figure>
+
+ 
+  </content>
+  
+</document>

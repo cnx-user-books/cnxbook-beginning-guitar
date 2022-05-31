@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 21: High Notes on the E String, and The Blues Scale</title>
+  <metadata>
+  <md:content-id>m13092</md:content-id><md:title>Guitar Lesson 21: High Notes on the E String, and The Blues Scale</md:title>
+  <md:abstract>Introduces E string notes up to the twelfth-fret E, the blues scale, and a moveable F minor chord shape.</md:abstract>
+  <md:uuid>f180f1bc-3941-4adf-b59a-7e654a3967cd</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m13091/latest/" strength="3">Guitar Lesson 20</link>
+      <link url="http://cnx.org/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m11118/latest/" strength="3">Harmonic Series</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+   <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="21GuitarLesson.pdf">Lesson Page</link>, the <link resource="21GuitarPractice.pdf">Home Practice Page</link>, and the <link resource="SongSheet11.pdf">Song Sheet</link> for this lesson. There are ensembles for this lesson on both <link resource="Ensemble17.pdf">Ensemble Page 17</link> and <link resource="Ensemble18.pdf">Ensemble Page 18</link>
+    </para>
+
+    <para id="eip-488">The final ten lessons in this course include introductions to more advanced techniques and skills. The main goal here is to give students a taste of the variety of possibilities, so that they can decide what skills they would like to master. Many students will already be working through these lessons somewhat slowly, while simultaneously working on other music. Even those who have been moving along quickly may want to slow down at this point, or may want to pick and choose skills to master as they become wanted or useful. </para><figure id="fig0a">
+      <media id="id1164332373238" alt=""><image src="../../media/21GuitarLesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id1164325543310" alt=""><image src="../../media/21GuitarPractice.png" mime-type="image/png"/></media>
+    </figure>
+
+
+     <figure id="fig0c">
+      <media id="id1164326796309" alt=""><image src="../../media/SongSheet11.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0d">
+      <media id="id1164326608928" alt=""><image src="../../media/Ensemble17.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0e">
+      <media id="ensemble" alt=""><image src="../../media/Ensemble18.png" mime-type="image/png"/></media>
+    </figure>
+
+
+  </content>
+  
+</document>

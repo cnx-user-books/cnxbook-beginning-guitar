@@ -1,0 +1,45 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 6: The Low E String, Sharps, and Left Hand Notation</title>
+  <metadata>
+  <md:content-id>m12744</md:content-id><md:title>Guitar Lesson 6: The Low E String, Sharps, and Left Hand Notation</md:title>
+  <md:abstract>Introduces the low E string, left hand notation, and sharp and natural notes.</md:abstract>
+  <md:uuid>4a6c88ba-9c62-4b92-8b21-797a767cab68</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m12732/latest/" strength="3">Guitar Lesson 5</link>
+      <link url="http://cnx.rice.edu/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m10943/latest/" strength="3">Sharp, Flat, and Natural Notes</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+ 
+    <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="6guitarlesson.pdf">Lesson Page</link>, the <link resource="6Guitarpractice.pdf">Home Practice Page</link>, <link resource="SongSheet3.pdf">Song Sheet 3</link>, and <link resource="Ensemble3.pdf">Ensemble Page</link> for Lesson 6. If you cannot get the PDF files, you can use the figures below.
+    </para>
+    <para id="p0b">For students who are interested in accompaniment, this is a good time to add a song to their home practice that can be played using A and E7 chords (I-V7). Besides the pieces on the <link document="m12669">First Chord Song</link> pages, other possibilities include: "Clementine", "Polly Wolly Doodle", "Skip to my Lou", and "Down in the Valley".
+    </para>
+
+    <para id="eip-653">Students who are enjoying reading common notation, and anxious to learn particular tunes, should at this point be able to work from any book designed for beginning guitarists. Music designed for beginners in other instruments may also be useful. Students who need extra practice, in order to solidify their reading skills, should also be encouraged to pick up an extra songbook for beginners, and work at these lessons at a slower pace while building confidence working on easy songs.</para><figure id="fig0a">
+      <media id="id1169706256808" alt=""><image src="../../media/6guitarlesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id1169706192089" alt=""><image src="../../media/6Guitarpractice.png" mime-type="image/png"/></media>
+    </figure>
+   
+  <figure id="fig0c"><media id="songsheet" alt=""><image src="../../media/SongSheet3.png" mime-type="image/png"/></media>
+    </figure>
+   
+  <figure id="fig0d">
+      <media id="ensemble" alt=""><image src="../../media/Ensemble3.png" mime-type="image/png"/></media>
+    </figure>
+   
+  </content>
+  
+</document>

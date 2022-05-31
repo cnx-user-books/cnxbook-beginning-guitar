@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Guitar Lesson 2: The B String, Measures, and Time Signature</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12666</md:content-id>
+  <md:title>Guitar Lesson 2: The B String, Measures, and Time Signature</md:title>
+  <md:abstract>Introduces the B string and the concepts of measures, bar lines, and time signatures.</md:abstract>
+  <md:uuid>7266e69b-d737-4ccf-99bf-f5f4e8752007</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m10956/latest/" strength="3">Time Signature</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are individual PDF files of the <link resource="2Guitarlesson.pdf">Lesson Page</link> and the <link resource="2Guitarpractice.pdf">Home Practice Page</link>. Students who are eager to learn how to accompany themselves while singing can begin in this lesson with "Row, Row, Row Your Boat", on the <link url="ChordSongSheet.pdf">First Chord Songs</link> page, or any other song which can be accompanied by only a single major chord (use E) or a single minor chord (Em). Many simple rounds fall into this no-chord-change category. Students who have no interest in accompanying singing can ignore the chord song sheets.
+    </para>
+
+    <para id="eip-732">Learning to play in an ensemble with others is an important skill for guitarists. Beginning in this lesson, students may start to work on <link url="Ensemble1.pdf">ensembles</link>. If students are in a guitar class, class members should learn both parts and take turns playing each part during class. Private students can learn both parts and play each, with the instructor playing the other part, during lessons. Students may begin working on an ensemble at any time after finishing the exercises for that lesson.</para><figure id="fig0a"><media id="id5767073" alt="page of notes explainging lesson concepts"><image src="../../media/2Guitarlesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b"><media id="id2938952" alt="exercises for practice"><image src="../../media/2Guitarpractice.svg" mime-type="image/svg"/></media>
+    </figure>
+
+<figure id="fig0c">
+      <media id="chordsongs" alt="lyrics and chords to easy songs"><image src="../../media/ChordSongSheet.png" mime-type="image/png"/></media>
+    </figure>
+
+<figure id="fig0d"><media id="Ensemble" alt="ensembles to practice for lessons 2 and 3"><image src="../../media/Ensemble1.png" mime-type="image/png"/></media>
+    </figure>
+ 
+  </content>
+  
+</document>

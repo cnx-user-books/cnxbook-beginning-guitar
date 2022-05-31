@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 10: Repeating Measures and Sections</title>
+  <metadata>
+  <md:content-id>m12772</md:content-id><md:title>Guitar Lesson 10: Repeating Measures and Sections</md:title>
+  <md:abstract>Introduces the symbols and directions most commonly used to repeat measures and sections of music, D7 chord, and choosing bass notes in accompaniments.</md:abstract>
+  <md:uuid>9cbc2c2d-5bb0-4b2e-ac35-85f8ebfd18df</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="3">Major Keys and Scales</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+      <link url="http://cnx.rice.edu/content/m12769/latest/" strength="3">Guitar Lesson 9</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="10Guitarlesson.pdf">Lesson Page</link>, the <link resource="10Guitarpractice.pdf">Home Practice Page</link>, and <link resource="Songsheet5.pdf">Song Sheet 5</link>. The <link resource="Ensemble6.pdf">Ensemble Page</link> for this lesson is the same as for <link document="m12769">Guitar Lesson 9</link>
+.
+    </para>
+
+    <figure id="fig0a">
+      <media id="id9151218" alt=""><image src="../../media/10Guitarlesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id10299903" alt=""><image src="../../media/10Guitarpractice.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0c"><media id="id3879503" alt=""><image src="../../media/Songsheet5.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0d">
+      <media id="ensemble" alt=""><image src="../../media/Ensemble6.png" mime-type="image/png"/></media>
+    </figure>
+   
+  </content>
+  
+</document>

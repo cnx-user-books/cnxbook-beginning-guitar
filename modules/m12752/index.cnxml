@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 7: Flats, Alternate Fingerings, and Enharmonic Spelling</title>
+  <metadata>
+  <md:content-id>m12752</md:content-id><md:title>Guitar Lesson 7: Flats, Alternate Fingerings, and Enharmonic Spelling</md:title>
+  <md:abstract>Introduces flats, enharmonic spelling, whole notes and rests, and finding alternate fingerings on different strings.</md:abstract>
+  <md:uuid>8f267653-9cb3-4ab9-bb13-6d7a91f7025c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11641/latest/" strength="2">Enharmonic Notes</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m12744/latest/" strength="3">Guitar Lesson 6</link>
+      <link url="http://cnx.rice.edu/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+   
+    <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="7Guitarlesson.pdf">Lesson page</link>, the <link resource="7Guitarpractice.pdf">Home Practice Page</link>, and the <link resource="Ensemble4.pdf">Ensemble Page</link>. The <link resource="SongSheet3.pdf">Song Sheet</link> is the same as for <link document="m12744">Guitar Lesson 6</link>.
+
+    </para>
+    <para id="p0b">Students interested in playing chords, to accompany singing, may begin playing any I-IV-V7 song (using A, D, and E7) as soon as they are comfortable with the D chord and switching chords quickly. Chord song sheets <link resource="ChordSongSheet3.pdf">3</link> and <link resource="ChordSongSheet4.pdf">4</link> include some widely-known 3-chord songs, but there are many, many others to choose from. If the student has a favorite 2 or 3 chord song in a different key, the teacher should help transpose it to the key of A so the student can learning it.
+    </para>
+
+    <figure id="fig0a">
+      <media id="id1169708907948" alt=""><image src="../../media/7Guitarlesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    
+<figure id="fig0b">
+      <media id="id1169706257396" alt=""><image src="../../media/7Guitarpractice.png" mime-type="image/png"/></media>
+    </figure>
+ 
+<figure id="fig0c">
+      <media id="ensemble" alt=""><image src="../../media/Ensemble4.png" mime-type="image/png"/></media>
+    </figure>
+ 
+<figure id="fig0d">
+      <media id="songsheet" alt=""><image src="../../media/SongSheet3.png" mime-type="image/png"/></media>
+    </figure>
+ 
+<figure id="fig0e">
+      <media id="chordsongs3" alt=""><image src="../../media/ChordSongSheet3.png" mime-type="image/png"/></media>
+    </figure>
+
+<figure id="fig0f">
+      <media id="chordsongs4" alt=""><image src="../../media/ChordSongSheet4.png" mime-type="image/png"/></media>
+    </figure>
+ 
+ 
+  </content>
+  
+</document>

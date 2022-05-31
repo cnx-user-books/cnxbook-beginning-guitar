@@ -1,0 +1,52 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Reading a Chord Diagram</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>65498579-02fa-4b12-b3ef-e592e4db9def</md:uuid>
+</metadata>
+
+  <content>
+
+    <para id="p0a">
+A chord diagram shows you where to put your fingers to make a <link document="m11654" target-id="l0b">chord</link> on a fretted, stringed instrument. It is a simplified picture of the strings, frets, and fingers involved.
+    </para> 
+
+    <figure id="fig0a">
+       <media id="idp222320" alt=""><image src="../../media/Guitardiagram.png" mime-type="image/png"/></media>
+    </figure> 
+
+    <para id="p0b">
+The instrument shown is a guitar, but chord diagrams for similar stringed instruments can be read in the same way. In the diagram, the strings are vertical (top to bottom). The highest-sounding string is on the right. <note type="Note" id="idp318256"><label>Note</label>The highest-sounding string is the first string. On a guitar, the lowest-sounding string is the sixth string.</note>The frets are horizontal (side-to-side). The fret nearest the tuning pegs is the first fret. If there is no number at the side of the diagram, then the highest fret shown in the diagram is the first fret.
+    </para> 
+
+    <figure id="fig0b">
+       <title>Basic Chord Diagram</title>
+       <media id="idm502928" alt=""><image src="../../media/chorddiagram.png" mime-type="image/png"/></media>
+       <caption>
+The black dot with the number "2" is the tip of the second finger, holding the string down (tightly). To get a good sound, the fingertip should be very close to the fret, but not touching it, as the dot is here.
+       </caption>
+    </figure>
+
+    <list id="p0c">
+        <title>Chord diagrams from different publishers may look a little different</title> 
+        <item>An "X" by or on a string means not to play it. </item>
+        <item>An "0" by a string means to play it <term>open</term>, with no fingers holding it down anywhere. </item>
+        <item>An arc from one dot to another indicates the side of a finger (not a fingertip!) holding down more than one string at the same time; but the arc does not have to be there. If the same finger number is on more than one string, the side of the finger must be used. These <term>bar chords</term> are the most difficult chords and require plenty of practice - don't get discouraged! </item>
+        <item>A number at the side of the chord diagram means that the highest fret shown in the diagram is not the first fret.</item>
+    </list>
+
+    <figure id="fig0c">
+      <title>Different Styles of Diagram</title>
+      <media id="idm138368" alt=""><image src="../../media/Dchorddiagram.png" mime-type="image/png"/></media>
+      <caption>
+Both of the "D" chord diagrams mean the same thing: hold down the first string at the second fret with the second finger; the second string, third fret, third finger; third string, second fret, first finger; play the fourth and fifth strings open; and do not play the sixth string at all. The "G sharp seventh" chord diagrams both indicate a bar chord at the fourth fret.
+      </caption>
+    </figure>
+
+      <para id="pexer0a">
+The best way to practice reading chord diagrams is to get out your instrument, make the chords in the diagrams, and play them. Listen to see if they sound right. (Make sure your instrument is in tune and you are holding the strings down properly, or it will not sound good even if you have all the fingers in the right place.) Make sure you are using the correct fingers, even if it seems to you that there is an easier way to make the chord. The suggested fingerings are the ones that will make it easiest for you to change chords quickly and smoothly.
+      </para>
+
+ 
+
+  </content>
+  
+</document>

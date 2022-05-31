@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 13: Changing the Left Hand Position, and Moveable Chord Shapes</title>
+  <metadata>
+  <md:content-id>m12972</md:content-id><md:title>Guitar Lesson 13: Changing the Left Hand Position, and Moveable Chord Shapes</md:title>
+  <md:abstract>Introduces variable left hand position, left hand position notation, moveable chord shapes, B and B flat chords, and the high A on the first string.</md:abstract>
+  <md:uuid>d429239e-38cc-451a-bd78-4c117324408e</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="2">Interval</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+      <link url="http://cnx.rice.edu/content/m12839/latest/" strength="3">Guitar Lesson 12</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+   <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="13GuitarLesson.pdf">Lesson Page</link>, the <link resource="13Guitarpractice.pdf">Home Practice Page</link>, and the <link resource="Ensemble10.pdf">Ensemble Sheet</link>. The <link resource="SongSheet6.pdf">Song Sheet</link> is the same as for <link document="m12839">Guitar Lesson 12</link>.
+    </para>
+
+    <figure id="fig0a">
+      <media id="id4430652" alt=""><image src="../../media/13GuitarLesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id5033252" alt=""><image src="../../media/13Guitarpractice.png" mime-type="image/png"/></media>
+    </figure>
+
+  <figure id="fig0c">
+      <media id="ensemble" alt=""><image src="../../media/Ensemble10.png" mime-type="image/png"/></media>
+    </figure>
+
+     <figure id="fig0d">
+      <media id="id4355341" alt=""><image src="../../media/SongSheet6.png" mime-type="image/png"/></media>
+    </figure>
+
+  </content>
+  
+</document>

@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 17: Swing Rhythm, and the Construction of Major Chords</title>
+  <metadata>
+  <md:content-id>m13042</md:content-id><md:title>Guitar Lesson 17: Swing Rhythm, and the Construction of Major Chords</md:title>
+  <md:abstract>Introduces swing rhythm, and explains the construction of major chords.</md:abstract>
+  <md:uuid>012fa394-75cd-4d84-b5b9-71de248bb7e0</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.org/content/m13041/latest/" strength="3">Guitar Lesson16</link>
+      <link url="http://cnx.org/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m11995/latest/" strength="3">Beyond Triads</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+   <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="17GuitarLesson.pdf">Lesson Page</link>, the <link resource="17GuitarPractice.pdf">Home Practice Page</link>, <link resource="SongSheet9.pdf">Song Sheet </link>. The <link resource="Ensemble13.pdf">Ensemble</link> page is the same as for <link document="m13041">Guitar Lesson 16</link>.</para>
+
+    <figure id="fig0a">
+      <media id="id6962442" alt=""><image src="../../media/17GuitarLesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id8879264" alt=""><image src="../../media/17GuitarPractice.png" mime-type="image/png"/></media>
+    </figure>
+
+
+     <figure id="fig0c"><media id="id4070390" alt=""><image src="../../media/SongSheet9.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0d"><media id="id12624237" alt=""><image src="../../media/Ensemble13.png" mime-type="image/png"/></media>
+    </figure>
+
+  </content>
+  
+</document>

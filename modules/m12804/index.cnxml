@@ -1,0 +1,46 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 11: Tied Notes and Barre Chords</title>
+  <metadata>
+  <md:content-id>m12804</md:content-id><md:title>Guitar Lesson 11: Tied Notes and Barre Chords</md:title>
+  <md:abstract>Introduces barre chords, half or partial barre chords, the F chord, and tied notes.</md:abstract>
+  <md:uuid>fef42655-1bdd-46cc-9610-a8118614894b</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="3">Interval</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+      <link url="http://cnx.rice.edu/content/m12772/latest/" strength="3">Guitar Lesson 10</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="11Guitarlesson.pdf">Lesson Page</link>, the <link resource="11Guitarpractice.pdf">Home Practice Page</link>, and the <link resource="Ensemble7.pdf">Ensemble Page</link>. One of the songs for this lesson is on <link resource="Songsheet5.pdf">Song Sheet 5</link>, along with the <link document="m12772">Guitar Lesson 10</link>
+songs; the other is on <link resource="SongSheet6.pdf">Song Sheet 6</link>.</para>
+
+    <figure id="fig0a">
+      <media id="id4175495" alt=""><image src="../../media/11Guitarlesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id8576570" alt=""><image src="../../media/11Guitarpractice.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0d"><media id="id5941771" alt=""><image src="../../media/Ensemble7.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0c">
+      <media id="id1172806701022" alt=""><image src="../../media/Songsheet5.png" mime-type="image/png"/></media>
+    </figure>
+    
+    <figure id="fig0e">
+      <media id="songsheet6" alt=""><image src="../../media/SongSheet6.png" mime-type="image/png"/></media>
+    </figure>
+    
+  </content>
+  
+</document>

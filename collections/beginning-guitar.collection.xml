@@ -1,0 +1,85 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10421</md:content-id>
+    <md:title>Beginning Guitar</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>892dd1c5-3bb3-45df-ab2a-97fddf28b15f</md:uuid>
+<md:slug>beginning-guitar</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Lessons</md:title>
+      <col:content>
+        <col:module document="m12663"/>
+        <col:module document="m12666"/>
+        <col:module document="m12668"/>
+        <col:module document="m12669"/>
+        <col:module document="m12732"/>
+        <col:module document="m12744"/>
+        <col:module document="m12752"/>
+        <col:module document="m12753"/>
+        <col:module document="m12769"/>
+        <col:module document="m12772"/>
+        <col:module document="m12804"/>
+        <col:module document="m12839"/>
+        <col:module document="m12972"/>
+        <col:module document="m13023"/>
+        <col:module document="m13027"/>
+        <col:module document="m13041"/>
+        <col:module document="m13042"/>
+        <col:module document="m13089"/>
+        <col:module document="m13090"/>
+        <col:module document="m13091"/>
+        <col:module document="m13092"/>
+        <col:module document="m31399"/>
+        <col:module document="m31402"/>
+        <col:module document="m31408"/>
+        <col:module document="m31422"/>
+        <col:module document="m31423"/>
+        <col:module document="m31425"/>
+        <col:module document="m31426"/>
+        <col:module document="m31427"/>
+        <col:module document="m31431"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Theory for the Beginning Guitarist</md:title>
+      <col:content>
+        <col:module document="m10941"/>
+        <col:module document="m10956"/>
+        <col:module document="m10945"/>
+        <col:module document="m11887"/>
+        <col:module document="m12717"/>
+        <col:module document="m10943"/>
+        <col:module document="m11641"/>
+        <col:module document="m10866"/>
+        <col:module document="m10881"/>
+        <col:module document="m10851"/>
+        <col:module document="m10867"/>
+        <col:module document="m12805"/>
+        <col:module document="m10856"/>
+        <col:module document="m10877"/>
+        <col:module document="m10890"/>
+        <col:module document="m11995"/>
+        <col:module document="m10865"/>
+        <col:module document="m11643"/>
+        <col:module document="m11118"/>
+        <col:module document="m11649"/>
+        <col:module document="m11648"/>
+        <col:module document="m11636"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Other Useful Information</md:title>
+      <col:content>
+        <col:module document="m12745"/>
+        <col:module document="m11903"/>
+        <col:module document="m11905"/>
+        <col:module document="m11949"/>
+        <col:module document="m11892"/>
+        <col:module document="m11640"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Guitar Lesson 3: The G String, Half Notes, and Tablature Numbers</title>
+  <metadata>
+  <md:content-id>m12668</md:content-id><md:title>Guitar Lesson 3: The G String, Half Notes, and Tablature Numbers</md:title>
+  <md:abstract>Introduces the G string, notes of varying time lengths in common notation, and numbers other than "0" in  tablature.</md:abstract>
+  <md:uuid>7b48dbc5-35b6-4798-93e2-e20571205c0e</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m12663/latest/" strength="3">Guitar Lesson 1</link>
+      <link url="http://cnx.rice.edu/content/m12666/latest/" strength="3">Guitar Lesson 2</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m10945/latest/" strength="3">Note Duration</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+ 
+    <para id="p0a">Please see <link document="m12663">Guitar Lesson 1</link> for notes about this course. Here are PDF files of the <link resource="3Guitarlesson.pdf">Lesson Page</link>, the <link resource="3Guitarpractice.pdf">Home Practice Page</link>. The <link url="Ensemble1.pdf">ensembles</link> for this lesson are on the same page as the ensemble for lesson 2. If you cannot get the PDF files, you can use the figures below.
+    </para>
+
+    <para id="eip-972">Also, beginning in this lesson, students are ready to learn some familiar tunes. As with ensembles, students may work on or perform <link url="SongSheet1.pdf">song sheet</link> tunes at any time after they have mastered the skills for that lesson.</para><figure id="fig0a">
+      <media id="id1169741268286" alt=""><image src="../../media/3Guitarlesson.png" mime-type="image/png"/></media>
+    </figure>
+
+    <figure id="fig0b">
+      <media id="id8606152" alt=""><image src="../../media/3Guitarpractice.png" mime-type="image/png"/></media>
+    </figure>
+  
+<figure id="fig0c">
+      <media id="songs" alt=""><image src="../../media/SongSheet1.png" mime-type="image/png"/></media>
+    </figure>
+  
+<figure id="fig0d">
+      <media id="ensembles" alt=""><image src="../../media/Ensemble1.png" mime-type="image/png"/></media>
+    </figure>
+  
+  </content>
+  
+</document>
