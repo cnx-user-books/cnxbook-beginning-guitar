@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Catherine Schmidt-Jones">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10421</md:content-id>
     <md:title>Beginning Guitar</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>892dd1c5-3bb3-45df-ab2a-97fddf28b15f</md:uuid>
-<md:slug>beginning-guitar</md:slug>
-</metadata>
+    <md:slug>beginning-guitar</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Lessons</md:title>
